@@ -1,2 +1,3 @@
 # Facemask Detection
 The dataset consists of 1376 images, we have 690 face images with mask and 686 face images without mask. The original dataset is prepared by https://github.com/prajnasb/observations/tree/master/experiements/data 
+Due to the continous rise of covid cases all over the world, there are some rules to be followed by the people such as wearing a face mask and maintaining the social distancing. In order to keep that on floor, I have developed a model that detects whether a person is wearing a face mask or not. This model can be integrated with CCTV Cameras in public places such as hotels, restaurants, near traffic signals, temples, and other mob places that helps to bring complete awareness amidst this pandemic. 
